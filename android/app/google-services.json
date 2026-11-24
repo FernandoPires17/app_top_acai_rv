@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397079361257",
+    "project_id": "top-acai-rv-f1469",
+    "storage_bucket": "top-acai-rv-f1469.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397079361257:android:2416019b91b49c6e992278",
+        "android_client_info": {
+          "package_name": "br.unilavras.topacai.app_top_acai_rv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEiLQauDxVfYdylSvhxLD0-8LzfCzpZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
